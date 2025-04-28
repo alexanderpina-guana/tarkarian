@@ -1,0 +1,67 @@
+body{
+    background-image: url(aurora.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+
+h1{
+  background-color: ivory;
+  text-align: center;
+  font-size: 100px;
+  height: 600px;
+  width: 600px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 430px;
+  margin-right: 430px;
+  border:20px solid khaki;
+  border-radius: 35px;
+
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    height: 50px;
+    width: 300px;
+    margin-top: 800px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    margin-right: 430px;
+    border:20px solid white;
+    border-radius: 35px;
+}
+
+p{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 150px;
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 600px;
+    margin-left: 450px;
+    margin-right: 430px;
+    border:20px solid white;
+    border-radius: 35px;
+}
+
+img {
+    height: 290px;
+    width: 290px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 80px;
+}
+
